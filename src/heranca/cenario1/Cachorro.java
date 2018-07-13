@@ -1,5 +1,4 @@
 package heranca.cenario1;
 
-public class Main {
-
+public class Cachorro {
 }
