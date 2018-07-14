@@ -1,4 +1,7 @@
 package heranca.cenario2;
 
-public class Operador {
+public class Operador extends Funcionario {
+    public void cadastrarFornecedor(Fornecedor fornecedor) {
+
+    }
 }
