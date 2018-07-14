@@ -1,4 +1,7 @@
 package heranca.cenario1;
 
-public class BorderCollie {
+public class BorderCollie extends Cachorro {
+    public void pastorear() {
+        System.out.println("Pastoreando...");
+    }
 }
